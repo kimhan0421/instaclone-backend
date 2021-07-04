@@ -17,6 +17,7 @@
 	},
 	"homepage": "https://github.com/kimhan0421/instaclone-backend#readme",
 	"dependencies": {
+		"@prisma/client": "^2.25.0",
 		"apollo-server": "^2.25.1",
 		"graphql": "^15.5.0"
 	},
